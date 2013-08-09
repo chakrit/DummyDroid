@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DummyDroid.iml" filepath="$PROJECT_DIR$/DummyDroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DummyDroid/DummyDroid-DummyDroid.iml" filepath="$PROJECT_DIR$/DummyDroid/DummyDroid-DummyDroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DummyDroidLib/DummyDroidLib.iml" filepath="$PROJECT_DIR$/DummyDroidLib/DummyDroidLib.iml" />
+    </modules>
+  </component>
+</project>
+
